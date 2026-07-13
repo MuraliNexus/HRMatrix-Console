@@ -38,6 +38,26 @@ Dedicated CRUD screens with instant client-side search.
 **📈 Analytics**
 Eight Chart.js visualizations — department share, staffing breakdown by department, project team sizes, city/state distribution, and team-assignment buckets — all computed on the fly from live employee data.
 
+## 🖼️ Screenshots
+
+**📊 Dashboard**
+![Dashboard](images/dashboard.JPG)
+
+**👥 Employees**
+![Employee](images/employee.JPG)
+
+**➕ Adding an Employee**
+![Adding Employee](images/adding_employee.JPG)
+
+**🏢 Departments**
+![Department](images/department.JPG)
+
+**📁 Projects**
+![Projects](images/projects.JPG)
+
+**📈 Analytics**
+![Analytics](images/analytics.JPG)
+
 ## 🏗️ System Architecture
 
 ```
